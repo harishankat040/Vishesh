@@ -1,1 +1,1 @@
-salary=100
+salary=1000
