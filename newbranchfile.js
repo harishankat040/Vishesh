@@ -1,0 +1,1 @@
+const rating_desc = "Technical documentation can quickly go from “here’s how to use this if you’re unfamiliar and have limited experience” to “here’s an unedited transcript of everything our developer told us about this obscure application of our API.” One’s going to get you using the product right away, while the other will make you go cross-eyed.";
