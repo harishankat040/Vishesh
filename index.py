@@ -1,1 +1,1 @@
-account_name = twitter.com
+ffs = "stx"
