@@ -1,2 +1,2 @@
-salary=10001
+email="some@"
 age="13"
